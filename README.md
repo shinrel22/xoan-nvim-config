@@ -24,11 +24,9 @@ In the section below, you can substitute `;` for whatever you have configured fo
 
 | Shortcut | Action |
 | -------- | ------ |
-| `;c`     | Toggle light and dark themes
-| `;h`     | Toggle distraction free mode (hide/show both nerdtree and tagbar)
-| `Space`  | Toggle [NERD Tree](https://github.com/scrooloose/nerdtree), a file tree explorer.
+| `;tr`  | Toggle [NERD Tree](https://github.com/scrooloose/nerdtree), a file tree explorer.
 | `;tb`    | Toggle tagbar
-| `C-l`    | Redraw and ald also clear current highlighted search items (note: `l' is lowercase `L`, not number `1`)
+| `;cs`    | Redraw and ald also clear current highlighted search items (note: `l' is lowercase `L`, not number `1`)
 | `C-p`    | Open fuzzy finder (for files, buffers, etc)
 
 
@@ -36,10 +34,7 @@ In the section below, you can substitute `;` for whatever you have configured fo
 | -------- | ------ |
 | `;ec`    | Edit vim/neovim config
 | `;sc`    | Source (reload) the config (save it first with `:w`)
-|
-| `;n`     | Toggle line numbers
 | `;w`     | Toggle wrap
-|
 | `bv`     | Create a new (empty) buffer to the right of a vertical split
 | `bh`     | Create a new (empty) buffer below a horizontal split
 | `;bb`    | Toggle between current and last buffer
@@ -48,13 +43,9 @@ In the section below, you can substitute `;` for whatever you have configured fo
 | `;bd`    | Delete current buffer
 | `;bk`    | Kill current buffer (don't prompt to save changes)
 | `;bl`    | List buffers
-| `;bg`    | List and select buffer by #
-|
 | `;tt`    | Open a full screen terminal
 | `;tv`    | Open a terminal in a new split to the right
 | `;th`    | Open a terminal in a new split below
-|
-| `;c`     | Toggle between light and dark backround modes (for supported themes)
 
 #### Go support
 
