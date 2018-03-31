@@ -1,14 +1,4 @@
-I recently switched over to [neovim](https://neovim.io/) (see my screenshots at the bottom).
-Below is my updated [config file](https://github.com/neovim/neovim/wiki/FAQ#where-should-i-put-my-config-vimrc).
-
-It's currently synchronized with my `.vimrc` config except for a block of [neovim-specific terminal key mappings](https://neovim.io/doc/user/nvim_terminal_emulator.html).
-
-This is still a work in progress (everyone's own config is always a labor of love), but I'm already extremely
-pleased with how well this is working for me with neovim. While terminal mode isn't enough to make me stop using
-tmux, it is quite good and I like having it since it simplifies my documentation workflow for yanking terminal output to paste in a markdown buffer.
-
-These days I primarily develop in Go. I'm super thrilled and grateful for [fatih/vim-go](https://github.com/fatih/vim-go),
-as well as all the other awesome plugins contributed by an excellent community.
+This is a nvim config example
 
 ## Key map features
 
